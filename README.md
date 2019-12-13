@@ -1,5 +1,7 @@
 # Blender Curve to SVG
 
+This fork made for make it works in Blender 2.80
+
 > A simple Blender add-on for exporting 2D curves to SVG files
 
 Who doesn’t like to edit curves in Blender? :stuck_out_tongue:
